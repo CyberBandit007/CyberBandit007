@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CyberBandit007
-- 👀 I’m interested in IT sector: CyberSecurity, PM, AI and ML, Business Analys
+- 👀 I’m interested in IT sector: CyberSecurity, PM, AI and ML, Business Analyst
 - 🌱 I’m currently learning Cybersecurity
 - 💞️ I’m looking to collaborate on CyberSecurity International Projects
 - 📫 How to reach me radjiv.valiev@gmail.com    
