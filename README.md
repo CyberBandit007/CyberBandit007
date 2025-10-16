@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @CyberBandit007
-- 👀 I’m interested in IT sector: CyberSecurity, PM, AI and ML, Business Analyst
+- 👀 I’m interested in the IT sector: CyberSecurity, PM, AI and ML, Business Analytics
 - 🌱 I’m currently learning Cybersecurity
 - 💞️ I’m looking to collaborate on CyberSecurity International Projects
-- 📫 How to reach me radjiv.valiev@gmail.com    
+- 📫 How to reach me rad.valiev@proton.me   
 
 <!---
 CyberBandit007/CyberBandit007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
